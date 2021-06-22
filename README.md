@@ -1,2 +1,15 @@
-# Fucking-Rat
-This is a just  fucking asshole android rat where app coded in Java and server in python
+ Features of fucking rat : 
+ - getcallslogs
+ - getsmslogs
+ - getapps
+ - getcontacts
+ - getinfo
+ - callphone
+ - sendsms
+ - shell
+ - download upload file
+ - lockdevice
+ - wipephonedata
+ - looks like google play service
+ - Fud Virustotal 1/61
+ - Fresh Android Rat 
