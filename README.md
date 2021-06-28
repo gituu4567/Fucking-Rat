@@ -14,8 +14,12 @@
  - Fud Virustotal 1/61
  - Fresh Android Rat 
 
+<p align="center">
+
 Screenshots :
- <img src="https://raw.githubusercontent.com/blastlaboratory/Fucking-Rat/main/Screenshot%20(197).png" width=750px height=500px>
+
+ <img src="https://raw.githubusercontent.com/blastlaboratory/Fucking-Rat/main/Screenshot%20(197).png">
+ </p>
 
  
  About this project : 
@@ -29,7 +33,9 @@ python server.py (change port in server.py)
 
 2.Build Apk
 
-<img src="https://raw.githubusercontent.com/blastlaboratory/Fucking-Rat/main/Screenshot(198).jpg" width=750px height=500px>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/blastlaboratory/Fucking-Rat/main/Screenshot(198).jpg">
      
 https://www.rapidtables.com/convert/number/hex-to-decimal.html
 
