@@ -37,3 +37,8 @@ python server.py (change port in server.py)
 <img src="https://raw.githubusercontent.com/blastlaboratory/Fucking-Rat/main/Screenshot(198).jpg" width=750px height=500px>
      
 https://www.rapidtables.com/convert/number/hex-to-decimal.html
+
+
+Contributors : 
+1.swagkarna
+2.adhiraj-ranjan
