@@ -27,5 +27,13 @@ Screenshots :
   
       This project is uploaded here for my cute friend .More story will be posted later
  
- 
+How to use :
+
+1.Server:
+python server.py (change port in server.py)
+
+2.Build Apk
+
+<img src="https://raw.githubusercontent.com/blastlaboratory/Fucking-Rat/main/Screenshot(198).jpg" width=750px height=500px>
      
+https://www.rapidtables.com/convert/number/hex-to-decimal.html
