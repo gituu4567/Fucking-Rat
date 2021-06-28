@@ -19,13 +19,8 @@ Screenshots :
 
  
  About this project : 
- 
- Will be revealed soon..We dont need any stars nor forks nor contibutors nor any pull request nor any  issuse for this project ...
+We dont need any stars nor forks nor contibutors nor any pull request nor any  issuse for this project ...
  Contributors of this projects will be revealed soon 🦖
- 
- Why this project created :
-  
-      This project is uploaded here for my cute friend .More story will be posted later
  
 How to use :
 
